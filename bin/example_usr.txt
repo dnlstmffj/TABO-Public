@@ -1,0 +1,11 @@
+# line_email
+
+# line_pass
+
+# line_discordacc
+
+# line_money
+0
+# line_level
+
+# line_banned
